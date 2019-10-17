@@ -1,0 +1,8 @@
+node_modules
+
+package-lock.json
+
+.next
+
+server/environments/local/*
+server/environments/production/*
